@@ -1,5 +1,4 @@
-# fx-btc-and-epu
-Disentangling how Bitcoin, currencies and their relations are affected by policy uncertainty
+# Disentangling how Bitcoin, currencies and their relations are affected by policy uncertainty
 
 To successfully replicate our research, run the code in the following order:
 1. 1DataAnalysis.R
